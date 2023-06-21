@@ -1,12 +1,13 @@
-# Emotion Detection
+#
 
-<p> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!--   <img src="logo.png" width="700" hieght='700' " /> -->
-  <img width="400" height="200" alt="Screen Shot 1444-06-17 at 9 20 35 AM" src="logo.jpg">
-  
 
+
+<p align="center">
+  <img src="logo.jpg" alt="My Image" style="display: block; margin: 0 auto;">
 </p>
+
 
 
 
