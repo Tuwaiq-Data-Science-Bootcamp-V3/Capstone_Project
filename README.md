@@ -43,7 +43,16 @@ Audio dataset https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-spee
 
 ### Speech Emotion Recognition
 
-- We train a Convolutional LSTM (CLSTM) model to detect emotions in voices from the RAVDESS dataset. The CLSTM model consists of multiple LSTM layers followed by dense layers.
+- We train a Convolutional LSTM (CLSTM) model to detect emotions in voices from the RAVDESS dataset. The CLSTM model consists of multiple LSTM layers followed by dense 
+  layers.
+- The first 3 layers are 1D convolutional and max-pooling layers with varying numbers of filters and ReLU activation function. A batch normalization layer is added after 
+  each max-pooling layer to normalize the output. Dropout layers with a rate of 0.3 are added after each convolutional layer to prevent overfitting.
+
+- The next three layers are LSTM layers with 128 units, where the first two have return sequences set to True. These layers are used to learn temporal dependencies in the      input data.
+
+- The seventh layer is a dropout layer with a dropout rate of 0.3.
+
+- The eighth to tenth layers are dense layers with ReLU activation function and 128, 64, and 32 units, respectively.
 
   <img width="400" height="200" alt="Screen Shot 1444-06-17 at 9 20 35 AM" src="Speach Recognition Example.jpg">
 
