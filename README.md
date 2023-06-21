@@ -1,21 +1,11 @@
-#
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   
-   
-  <img width="700" height="400" alt="Screen Shot 1444-06-17 at 9 20 35 AM" src="logo.jpg">
-
-
 <p align="center">
   <img src="logo.jpg" alt="My Image" style="display: block; margin: 0 auto;">
 </p>
 
 
-
-
   
 # Project Title:
-Emotion Detection
+### Emotion Detection
   
 
 ## Dataset file:
