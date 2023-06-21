@@ -51,4 +51,10 @@ The results after creating the Color Correctness Model are successfully detectin
  
 <img src="e4.png"  width="500" height="350">  
 
+### References
+
+https://towardsdatascience.com/the-practical-guide-for-object-detection-with-yolov5-algorithm-74c04aac4843
+
+https://www.researchgate.net/publication/354597295_A_Deep_Learning_Approach_for_Masking_Fetal_Gender_in_Ultrasound_Images/download
+Resear
 
