@@ -13,10 +13,10 @@ Audio dataset https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-spee
 
 ## Team Members:
 
-- Fahad Alotaibi: Data Preprocessing and Modling [LinkedIn](https://www.linkedin.com/in/fahad-alotaibi-917aba127/)
-- Salman Almalki: Data Tuning and Model Deployment  [LinkedIn](https://www.linkedin.com/in/salman-almalki)
-- Sultan Alhurbi:  [LinkedIn](https://www.linkedin.com/in/sultan-alharbi-a6a166201)
-- Fahad Alluqmani:  [LinkedIn](https://www.linkedin.com/in/fahad-alloqmani)
+- Fahad Alotaibi: Data Collection and Data Preprocessing and Data Modling  [LinkedIn](https://www.linkedin.com/in/fahad-alotaibi-917aba127/)
+- Sultan Alhurbi: Data Collection and Data Preprocessing and Data Modling  [LinkedIn](https://www.linkedin.com/in/sultan-alharbi-a6a166201)
+- Salman Almalki: Data Modeling and Model Tuning and Model Deployment  [LinkedIn](https://www.linkedin.com/in/salman-almalki)
+- Fahad Alluqmani: Data Modeling and Model Tuning and Model Deployment [LinkedIn](https://www.linkedin.com/in/fahad-alloqmani)
     
 ## Introduction:
 - In this project, we aim to develop a deep learning-based system for emotion recognition from speech and facial expressions. The project consists of two parts: speech     
@@ -60,7 +60,7 @@ Audio dataset https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-spee
 
 ## Final Results and Conclusion
 
-We train and evaluate the CLSTM model for speech emotion recognition and the pre-trained neural network for face emotion recognition. We achieve an accuracy of XX% on the test set for speech emotion recognition and an accuracy of YY% on the test set for face emotion recognition. 
+We train and evaluate the CLSTM model for speech emotion recognition and the pre-trained neural network for face emotion recognition. We achieve an accuracy of 90% on the test set for speech emotion recognition and an accuracy of 93% on the test set for face emotion recognition. 
 
 Overall, our project demonstrates the effectiveness of deep learning-based approaches for emotion recognition from speech and facial expressions. Our models can be deployed in real-world applications, such as sentiment analysis in customer service and emotion-based recommendation systems.
 
