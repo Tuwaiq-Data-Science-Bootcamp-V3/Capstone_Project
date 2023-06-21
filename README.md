@@ -19,7 +19,9 @@ Audio dataset https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-spee
 
 ## Team Members:
 
-- Fahad Alotaibi: Data Analyst Linkedin [Linkedin]([https://www.example.com](https://www.linkedin.com/in/fahad-alotaibi-917aba127/)).
+- Fahad Alotaibi: Data Analyst [LinkedIn](https://www.linkedin.com/in/fahad-alotaibi-917aba127/)
+-
+- [Linkedin]([https://www.example.com](https://www.linkedin.com/in/fahad-alotaibi-917aba127/)).
 - [Name]: Data Analys
 - [Name]: [Role]
 - [Name]: [Role]    
