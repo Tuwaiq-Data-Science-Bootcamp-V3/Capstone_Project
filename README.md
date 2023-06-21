@@ -3,7 +3,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    
    
-  <img width="400" height="200" alt="Screen Shot 1444-06-17 at 9 20 35 AM" src="logo.jpg">
+  <img width="700" height="400" alt="Screen Shot 1444-06-17 at 9 20 35 AM" src="logo.jpg">
 
 
 <p align="center">
