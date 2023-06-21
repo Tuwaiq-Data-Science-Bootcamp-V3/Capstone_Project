@@ -230,6 +230,9 @@ The lip reading model employs AV-HuBERT, a lip reading model based on the Speech
 Overall, the Speech Aware project addresses various challenges in speech analysis and recognition, providing valuable insights for National Security applications such as speaker identification, speech enhancement, emotion analysis, and lip reading.
 
 
+# In Deployment,
+Our project has reached an exciting milestone as we prepare to deploy our four cutting-edge AI models: Speaker Recognition, Speech Enhancement, Speech Emotion Recognition, and Lip Reading. These models have been developed with the aim of solving some of the most pressing challenges in speech and audio processing, ranging from improving speech quality in noisy environments to detecting emotions in spoken language. As we move into the deployment phase, our goal is to ensure that these models are integrated effectively into our target applications and systems, and that they deliver the expected benefits to our users.
 
 
+To view the Deployment, [click here](https://drive.google.com/drive/folders/1yXfIaWsGufI1wVgejP85wIpbLV65PYOv?usp=sharing)
 
