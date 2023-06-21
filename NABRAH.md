@@ -1,5 +1,5 @@
 # NABRAH: Happy Customers, Happy Business
-<img width="1000" height="500" src="https://github.com/hamadsul/Capstone_Project/blob/main/NABRAH.jpeg">
+<img width="1000" height="500" src="https://github.com/isazHfc/Capstone_Project/blob/main/NABRAH.jpeg">
 
 # Name of the members:-
 - Hamad Alsulaiman 
