@@ -13,10 +13,14 @@ Audio dataset https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-spee
 
 ## Team Members:
 
-- Fahad Alotaibi: Data Collection and Data Preprocessing and Data Modling  [LinkedIn](https://www.linkedin.com/in/fahad-alotaibi-917aba127/)
-- Sultan Alhurbi: Data Collection and Data Preprocessing and Data Modling  [LinkedIn](https://www.linkedin.com/in/sultan-alharbi-a6a166201)
-- Salman Almalki: Data Modeling and Model Tuning and Model Deployment  [LinkedIn](https://www.linkedin.com/in/salman-almalki)
-- Fahad Alluqmani: Data Modeling and Model Tuning and Model Deployment [LinkedIn](https://www.linkedin.com/in/fahad-alloqmani)
+- Fahad Alotaibi: [LinkedIn](https://www.linkedin.com/in/fahad-alotaibi-917aba127/)
+  - Data Collection and Data Preprocessing and Data Modling 
+- Sultan Alhurbi: [LinkedIn](https://www.linkedin.com/in/sultan-alharbi-a6a166201)
+  - Data Collection and Data Preprocessing and Data Modling  
+- Salman Almalki: [LinkedIn](https://www.linkedin.com/in/salman-almalki)
+  -  Data Modeling and Model Tuning and Model Deployment 
+- Fahad Alluqmani: [LinkedIn](https://www.linkedin.com/in/fahad-alloqmani)
+  -  Data Modeling and Model Tuning and Model Deployment 
     
 ## Introduction:
 - In this project, we aim to develop a deep learning-based system for emotion recognition from speech and facial expressions. The project consists of two parts: speech     
