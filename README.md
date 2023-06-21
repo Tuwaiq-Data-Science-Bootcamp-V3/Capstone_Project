@@ -4,6 +4,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!--   <img src="logo.png" width="700" hieght='700' " /> -->
   <img width="400" height="200" alt="Screen Shot 1444-06-17 at 9 20 35 AM" src="logo.jpg">
+  
 
 </p>
 
@@ -43,6 +44,9 @@ Audio dataset https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-spee
 ### Speech Emotion Recognition
 
 - We train a Convolutional LSTM (CLSTM) model to detect emotions in voices from the RAVDESS dataset. The CLSTM model consists of multiple LSTM layers followed by dense layers.
+
+  <img width="400" height="200" alt="Screen Shot 1444-06-17 at 9 20 35 AM" src="Speach Recognition Example.jpg">
+
 
 ### Face Emotion Recognition
 
