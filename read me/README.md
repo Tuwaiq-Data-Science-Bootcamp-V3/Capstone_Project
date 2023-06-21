@@ -53,6 +53,8 @@ This code is to train a CNN model to classify drug-related images and evaluate i
 
 # Deployment 
 We developed a Django web page for seamless user interaction. The web page allows users to upload images and receive predictions from the drug detection model. This integration enhances accessibility and simplifies the process of identifying drug presence in uploaded images.
+[Django](https://drive.google.com/drive/folders/1-1lbEMK_uSetDc9yrqv1wzaEdH9yfSa1?usp=sharing)
+
 
 # Future Work
 The project can be further improved and extended in the following ways:
