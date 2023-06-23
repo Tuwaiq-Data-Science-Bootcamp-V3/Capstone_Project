@@ -39,3 +39,9 @@ These evaluation metrics offer valuable insights into the performance of the mod
 
 # Conclusion:- 
 - In conclusion, the use of AI to analyze customer voice tone can provide valuable insights into customer satisfaction levels. The Saudi speech detection dataset is a valuable resource for this purpose, given its expert curation and categorization of tones. The proposed algorithm, a sequential neural network with two LSTM layers and a dense layer, achieved an accuracy of 85.9% in detecting customer satisfaction levels. The precision, recall, and F1 scores also indicate the model's effectiveness in classification tasks. The development of cutting-edge speech and audio-related applications in Arabic (Saudi) can be propelled through the use of this dataset, opening up new horizons for technology-driven solutions in various domains. Overall, this project demonstrates the potential of AI in improving customer satisfaction and enhancing business performance.
+
+[Click here to access our website](https://drive.google.com/file/d/18SMqV-TcoqKp0L7A6xk47Ee8juu5YQWQ/view?usp=drive_link).
+
+[Click here to access our dataset](https://drive.google.com/file/d/10W4lkbYJIMYo-ZL3rjfDjYc4aDASucGn/view?usp=drive_link).
+
+
